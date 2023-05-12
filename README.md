@@ -1,4 +1,5 @@
 ![StreamFX Logo](https://raw.githubusercontent.com/Xaymar/obs-StreamFX/master/media/logo.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frummik%2Fobs-StreamFX.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frummik%2Fobs-StreamFX?ref=badge_shield)
 # StreamFX
 Bring your setup to the modern day with StreamFX! With several super fast filters, new ways to build your scenes, and new encoders you can now take your stream even further. Create cool new scenes with 3D effects, make something glow or have a shadow, or blur out content - the choice is yours!
 
@@ -10,3 +11,7 @@ Bring your setup to the modern day with StreamFX! With several super fast filter
 ## Further Links
 * [Wiki](https://github.com/Xaymar/obs-StreamFX/wiki)
 * [Installation Guide](https://github.com/xaymar/obs-streamfx/wiki/Installation)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frummik%2Fobs-StreamFX.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frummik%2Fobs-StreamFX?ref=badge_large)
